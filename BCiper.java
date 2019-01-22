@@ -1,10 +1,10 @@
 
 /*
 The program asks users to input a string of variable length. Then, it converts each letter to the index in the alphabetic list (1-26). 
-Each index is then represented by a 8-bit binary block. The encryption process basically reverse the bits and then flip the last bit, for all blocks. 
-Then, the scrambler processes 8 blocks at a time by reversing the blocks. If there are less than 8 blocks left, then reversing operation is still 
-performed with the size of the blocks. Repeat this process for 10 times. Same in Lab1, the program prints out the ciphertext, then performs decryption 
-and finally prints out the plaintext to verify everything works perfectly.
+Each index is then represented by a 8-bit binary block. The encryption process basically reverse the bits and then flip the last bit,
+for all blocks. Then, the scrambler processes 8 blocks at a time by reversing the blocks. If there are less than 8 blocks left, then
+reversing operation is still performed with the size of the blocks. Repeat this process for 10 times. Same in Lab1, the program prints 
+out the ciphertext, then performs decryption and finally prints out the plaintext to verify everything works perfectly.
 */
 
 
