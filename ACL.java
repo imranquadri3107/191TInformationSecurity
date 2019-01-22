@@ -1,6 +1,8 @@
 
-/*Implement an ACL such that when a user login, he/she can type username (i) R: display files that the  user has read access.
- (ii)  W: display files that the user has write access. (iii)  X: display files that the user has execute access.
+/*Implement an ACL such that when a user login, he/she can type username 
+(i) R: display files that the  user has read access.
+(ii)  W: display files that the user has write access. 
+(iii)  X: display files that the user has execute access.
 
 Imran Quadri = 109882298
 CSCI=191T InfoSec
